@@ -1,1 +1,3 @@
-function a(){return 1494;}
+function a(){
+  return 1494;
+}
